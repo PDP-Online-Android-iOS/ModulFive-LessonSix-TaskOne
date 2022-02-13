@@ -4,129 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8020d74c-9a21-4dac-9848-567cf101b84b" name="Default Changelist" comment="ModulFive-LessonSIx-TaskOne">
-      <change afterPath="$PROJECT_DIR$/.idea/Task 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/androidTest/java/dev/ogabek/java/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/java/dev/ogabek/java/activity/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/java/dev/ogabek/java/adapter/EssentialAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/java/dev/ogabek/java/adapter/ImageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/java/dev/ogabek/java/model/Essential.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/java/dev/ogabek/java/model/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/button_rounded_border.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/camera_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/camera_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/camera_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/camera_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/edittext_rounded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_lens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_location.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/ic_voice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/sneaker_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/sneaker_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/drawable/sneaker_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/layout/item_feed_essential.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/layout/item_image.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/app/src/test/java/dev/ogabek/java/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/androidTest/java/dev/ogabek/kotlin/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/dev/ogabek/kotlin/activity/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/dev/ogabek/kotlin/adapter/EssentialAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/dev/ogabek/kotlin/adapter/ImageAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/dev/ogabek/kotlin/model/Essential.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/java/dev/ogabek/kotlin/model/Image.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/button_rounded_border.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/camera_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/camera_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/camera_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/camera_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/edittext_rounded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_lens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_location.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/ic_voice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/sneaker_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/sneaker_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/drawable/sneaker_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/layout/item_feed_essential.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/layout/item_image.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/app/src/test/java/dev/ogabek/kotlin/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kotlin/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="8020d74c-9a21-4dac-9848-567cf101b84b" name="Default Changelist" comment="ModulFive-LessonSIx-TaskOne" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,6 +35,14 @@
       <option name="presentableId" value="Default" />
       <updated>1644764372163</updated>
     </task>
+    <task id="LOCAL-00001" summary="ModulFive-LessonSIx-TaskOne">
+      <created>1644764711951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644764711951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
